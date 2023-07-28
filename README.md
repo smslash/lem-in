@@ -4,7 +4,7 @@ Find optimal paths for ants
 
 ## Author
 
-* [@ssengerb](https://01.alem.school/git/ssengerb)
+* [@smslash](https://github.com/smslash)
 
 ## Objectives
 
